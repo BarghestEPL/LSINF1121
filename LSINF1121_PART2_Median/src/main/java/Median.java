@@ -6,9 +6,9 @@ public class Median {
                 a.swap(i, j);
                 i++;
             }
-        }
+	    }
 	    a.swap(i, hi);
-        return i;
+	    return i;
     }
 
     public static int kthSmallest(Vector a, int lo, int hi, int k){
