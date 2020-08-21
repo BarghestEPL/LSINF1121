@@ -1,14 +1,13 @@
-
 public class Median {
 	public static int partition(Vector a, int lo, int hi){
 	    int x = a.get(hi), i = lo;
-        for (int j = lo; j < hi; j++) {
+	    for (int j = lo; j < hi; j++) {
             if(a.get(j) <= x){
                 a.swap(i, j);
                 i++;
             }
         }
-        a.swap(i, hi);
+	    a.swap(i, hi);
         return i;
     }
 
