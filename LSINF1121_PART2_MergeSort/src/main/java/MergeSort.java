@@ -29,6 +29,7 @@ public class MergeSort {
     private static void sort(Comparable[] a, Comparable[] aux, int lo, int hi) {
         // TODO
         if(hi - lo > 0){
+            System.out.println(Arrays.toString(a));
             int mid = (lo + hi) / 2;
             sort(a, aux, lo, mid);
             sort(a, aux, mid + 1, hi);
@@ -47,7 +48,7 @@ public class MergeSort {
     }
 
     public static void main(String[] args) {
-        Comparable[] test = {7, 4, 2, 8, 3};
+        Comparable[] test = {3, 5, 4, 2, 1, 7, 8, 6};
         sort(test);
         System.out.println(Arrays.toString(test));
     }

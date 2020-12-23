@@ -48,5 +48,4 @@ public class Union {
         Interval[] test = union(intervals);
         System.out.println(Arrays.toString(test));
     }
-
 }
