@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fcb9449-4129-45ab-8cf7-3aaef8c89948" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../LSINF1121_PART6_ConnectedComponents/target/test-classes/ConnectedComponentsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LSINF1121_PART6_ConnectedComponents/target/test-classes/ConnectedComponentsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSINF1121_PART6_Digraph/src/main/java/DigraphImplem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSINF1121_PART6_Digraph/src/main/java/DigraphImplem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSINF1121_PART6_Digraph/target/classes/DigraphImplem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../LSINF1121_PART6_Digraph/target/classes/DigraphImplem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LSINF1121_PART6_GlobalWarming/src/main/java/GlobalWarmingImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LSINF1121_PART6_GlobalWarming/src/main/java/GlobalWarmingImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/WordTransformationSP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/WordTransformationSP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WordTransformationSP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/WordTransformationSP.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nSafePoints(matrix, l)</find>
+      <find>nbSafePointsCorrect</find>
+      <find>testSafePointExam</find>
+      <find>testSimpleAll</find>
+      <find>testCorrectnessNbIslands</find>
+      <find>testNbIslandsExam</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>g1.nbSafePoints(l)</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\user\Documents\UCL\Master\Q9\Algo\LSINF1121_PART2_GlobalWarming</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mj3rEiYgAy38ezjLcDztPUbWsc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544199805945" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\UCL\Master\Q9\Algo\LSINF1121_PART1_Stack\src\main\java" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WTSPStaticTests">
+    <configuration name="WordTransformationSP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordTransformationSP" />
+      <module name="LSINF1121_PART6_WordTransformation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in LSINF1121_PART6_WordTransformation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART6_WordTransformation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WTSPStaticTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LSINF1121_PART6_WordTransformation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WTSPStaticTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LSINF1121_PART2_Median" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LSINF1121_PART2_Median" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WTSPStaticTests" />
+        <item itemvalue="Application.WordTransformationSP" />
+        <item itemvalue="JUnit.All in LSINF1121_PART6_WordTransformation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fcb9449-4129-45ab-8cf7-3aaef8c89948" name="Default Changelist" comment="" />
+      <created>1537447392970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537447392970</updated>
+      <workItem from="1537452939556" duration="5350000" />
+      <workItem from="1543246906337" duration="154000" />
+      <workItem from="1544146244874" duration="1251000" />
+      <workItem from="1544157166444" duration="214000" />
+      <workItem from="1544158235381" duration="17689000" />
+      <workItem from="1609993374069" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609987508260">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609987508260" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1609988764686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609988764686" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1609993510968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609993510968" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1609989189678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609989189678" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1609994183765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609994183765" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1609994183765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609994183765" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1609994183765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609994183765" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1609994183765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609994183765" />
+    <state width="511" height="446" key="SwitcherDM" timestamp="1609990872296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="511" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1609990872296" />
+  </component>
+</project>
