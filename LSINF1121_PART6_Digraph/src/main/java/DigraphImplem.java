@@ -56,12 +56,9 @@ public class DigraphImplem implements Digraph {
     public Digraph reverse() {
         // TODO
         DigraphImplem output = new DigraphImplem(this.V);
-        for (int i = 0; i < V; i++) {
-            Iterable<Integer> iterable = adj.get(i);
-            for (int neighbor : iterable) {
+        for (int i = 0; i < V; i++)
+            for (int neighbor : adj.get(i))
                 output.addEdge(neighbor, i);
-            }
-        }
         return output;
     }
 }

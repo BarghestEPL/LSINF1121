@@ -20,8 +20,7 @@ public class GlobalWarmingImpl extends GlobalWarming {
             }
         }
     }
-
-
+    
     /**
      *
      * @param p1 a safe point with valid coordinates on altitude matrix
@@ -90,5 +89,4 @@ public class GlobalWarmingImpl extends GlobalWarming {
             curr = edgeTo[curr.x * width + curr.y];
         } return output;
     }
-
 }
